@@ -1,0 +1,6 @@
+key*
+id_rsa*
+terraform/.terraform/
+terraform/*.backup
+terraform/*.tfstate
+ansible/inventory
