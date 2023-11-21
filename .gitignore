@@ -1,0 +1,5 @@
+
+terraform/key.json
+*key*
+*.tf*
+*.tf
